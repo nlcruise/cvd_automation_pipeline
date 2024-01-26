@@ -1,0 +1,98 @@
+[2024-01-26T00:00:10.712+0000] {processor.py:161} INFO - Started process (PID=790) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T00:00:10.713+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T00:00:10.714+0000] {logging_mixin.py:188} INFO - [2024-01-26T00:00:10.713+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T00:00:10.727+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T00:00:10.746+0000] {logging_mixin.py:188} INFO - [2024-01-26T00:00:10.746+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T00:00:10.756+0000] {logging_mixin.py:188} INFO - [2024-01-26T00:00:10.755+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T00:00:10.772+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.062 seconds
+[2024-01-26T00:00:40.885+0000] {processor.py:161} INFO - Started process (PID=801) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T00:00:40.886+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T00:00:40.887+0000] {logging_mixin.py:188} INFO - [2024-01-26T00:00:40.886+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T00:00:40.900+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T00:00:40.920+0000] {logging_mixin.py:188} INFO - [2024-01-26T00:00:40.919+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T00:00:40.930+0000] {logging_mixin.py:188} INFO - [2024-01-26T00:00:40.930+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T00:00:40.953+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.070 seconds
+[2024-01-26T00:01:11.104+0000] {processor.py:161} INFO - Started process (PID=812) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T00:01:11.105+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T00:01:11.106+0000] {logging_mixin.py:188} INFO - [2024-01-26T00:01:11.106+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T00:01:11.120+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T00:01:11.139+0000] {logging_mixin.py:188} INFO - [2024-01-26T00:01:11.138+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T00:01:11.148+0000] {logging_mixin.py:188} INFO - [2024-01-26T00:01:11.148+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T00:01:11.165+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.063 seconds
+[2024-01-26T11:19:09.243+0000] {processor.py:161} INFO - Started process (PID=823) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:19:09.244+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T11:19:09.245+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:19:09.245+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:19:09.260+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:19:09.282+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:19:09.281+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T11:19:09.294+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:19:09.294+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T11:19:09.312+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.071 seconds
+[2024-01-26T11:19:39.415+0000] {processor.py:161} INFO - Started process (PID=836) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:19:39.416+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T11:19:39.417+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:19:39.417+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:19:39.431+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:19:39.452+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:19:39.452+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T11:19:39.463+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:19:39.463+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T11:19:39.481+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.068 seconds
+[2024-01-26T11:20:09.636+0000] {processor.py:161} INFO - Started process (PID=847) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:20:09.637+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T11:20:09.638+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:20:09.638+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:20:09.650+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:20:09.669+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:20:09.668+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T11:20:09.677+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:20:09.677+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T11:20:09.692+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.057 seconds
+[2024-01-26T11:20:39.804+0000] {processor.py:161} INFO - Started process (PID=858) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:20:39.805+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T11:20:39.806+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:20:39.805+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:20:39.822+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:20:39.844+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:20:39.843+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T11:20:39.855+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:20:39.855+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T11:20:39.872+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.071 seconds
+[2024-01-26T11:21:10.001+0000] {processor.py:161} INFO - Started process (PID=869) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:21:10.002+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T11:21:10.003+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:21:10.002+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:21:10.017+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:21:10.037+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:21:10.037+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T11:21:10.048+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:21:10.047+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T11:21:10.074+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.075 seconds
+[2024-01-26T11:21:40.185+0000] {processor.py:161} INFO - Started process (PID=880) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:21:40.186+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T11:21:40.187+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:21:40.187+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:21:40.201+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:21:40.220+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:21:40.220+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T11:21:40.231+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:21:40.231+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T11:21:40.254+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.070 seconds
+[2024-01-26T11:22:10.382+0000] {processor.py:161} INFO - Started process (PID=891) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:22:10.382+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T11:22:10.383+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:22:10.383+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:22:10.397+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:22:10.417+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:22:10.416+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T11:22:10.426+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:22:10.426+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T11:22:10.449+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.070 seconds
+[2024-01-26T11:22:40.561+0000] {processor.py:161} INFO - Started process (PID=902) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:22:40.562+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T11:22:40.563+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:22:40.563+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:22:40.579+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:22:40.598+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:22:40.598+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T11:22:40.609+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:22:40.608+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T11:22:40.633+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.074 seconds
+[2024-01-26T11:23:10.770+0000] {processor.py:161} INFO - Started process (PID=913) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:23:10.771+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T11:23:10.772+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:23:10.771+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:23:10.787+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:23:10.807+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:23:10.807+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T11:23:10.818+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:23:10.818+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T11:23:10.835+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.067 seconds
+[2024-01-26T11:23:40.956+0000] {processor.py:161} INFO - Started process (PID=924) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:23:40.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T11:23:40.958+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:23:40.958+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:23:40.976+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:23:41.001+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:23:41.001+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T11:23:41.013+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:23:41.013+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T11:23:41.031+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.077 seconds
+[2024-01-26T11:24:11.177+0000] {processor.py:161} INFO - Started process (PID=935) to work on /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:24:11.178+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/cvd_pipeline_1.py for tasks to queue
+[2024-01-26T11:24:11.179+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:24:11.178+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:24:11.195+0000] {processor.py:840} INFO - DAG(s) 'cvd_automation_pipeline' retrieved from /opt/airflow/dags/cvd_pipeline_1.py
+[2024-01-26T11:24:11.217+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:24:11.216+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-01-26T11:24:11.228+0000] {logging_mixin.py:188} INFO - [2024-01-26T11:24:11.228+0000] {dag.py:3823} INFO - Setting next_dagrun for cvd_automation_pipeline to None, run_after=None
+[2024-01-26T11:24:11.247+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/cvd_pipeline_1.py took 0.072 seconds
